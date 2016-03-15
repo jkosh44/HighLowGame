@@ -68,6 +68,7 @@ public class HighLowActivity extends AppCompatActivity {
                 } else {
                     etGuess.setError(getString(R.string.enterANumber));
                 }
+                etGuess.setText("");
             }
         });
     }
