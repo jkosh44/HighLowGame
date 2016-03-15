@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HighLow Game</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="start">Start</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_high_low">HighLowActivity</string>
+    <string name="helpMessage">This is the help message. You\'ve been helped.</string>
+    <string name="aboutMessage">About this game: it\'s a game.</string>
+    <string name="guessANumber">Guess a Number from 0 to 99</string>
+    <string name="Winner">You have won! Yupeee!</string>
+    <string name="guessIsSmaller">Your guess is smaller!</string>
+    <string name="guessLarger">Your guess is larger!</string>
+    <string name="enterANumber">Please enter a number here!</string>
+    <string name="title_activity_result_dialog">ResultDialogActivity</string>
+    <string name="gameWon">You have won the game!</string>
+    <string name="ok">ok</string>
+</resources>
